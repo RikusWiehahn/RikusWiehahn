@@ -1,5 +1,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikusWiehahn&count_private=true&show_icons=true&theme=nightowl)](https://github.com/RikusWiehahn/github-readme-stats)
-)
 
 
 <!--
